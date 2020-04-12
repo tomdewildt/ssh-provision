@@ -1,10 +1,10 @@
 # SSH Provision
-[![Go Version](https://img.shields.io/badge/go-v1.13-blue)](https://golang.org/dl/#stable)
-![Project Version](https://img.shields.io/github/v/release/tomdewildt/ssh-provision?label=version)
-![CI Status](https://github.com/tomdewildt/ssh-provision/workflows/ci/badge.svg?branch=master)
-![CD Status](https://github.com/tomdewildt/ssh-provision/workflows/cd/badge.svg)
-[![Coverage Status](https://codecov.io/gh/tomdewildt/ssh-provision/branch/master/graph/badge.svg)](https://codecov.io/gh/tomdewildt/ssh-provision)
-[![Report Status](https://goreportcard.com/badge/github.com/tomdewildt/ssh-provision)](https://goreportcard.com/report/github.com/tomdewildt/ssh-provision)
+[![Version](https://img.shields.io/github/v/release/tomdewildt/ssh-provision?label=version)](https://github.com/tomdewildt/ssh-provision/releases)
+[![Build](https://img.shields.io/github/workflow/status/tomdewildt/ssh-provision/ci/master)](https://github.com/tomdewildt/ssh-provision/actions?query=workflow%3Aci)
+[![Release](https://img.shields.io/github/workflow/status/tomdewildt/ssh-provision/cd?label=release)](https://github.com/tomdewildt/ssh-provision/actions?query=workflow%3Acd)
+[![Coverage](https://img.shields.io/codecov/c/gh/tomdewildt/ssh-provision)](https://codecov.io/gh/tomdewildt/ssh-provision)
+[![Report](https://goreportcard.com/badge/github.com/tomdewildt/ssh-provision)](https://goreportcard.com/report/github.com/tomdewildt/ssh-provision)
+[![License](https://img.shields.io/github/license/tomdewildt/ssh-provision)](https://github.com/tomdewildt/ssh-provision/blob/master/LICENSE)
 
 A simple tool to create ssh keys and distribute them to CentOS servers.
 
