@@ -7,5 +7,5 @@ require (
 	github.com/sirupsen/logrus v1.5.0
 	github.com/spf13/cobra v1.0.0
 	github.com/stretchr/testify v1.5.1
-	golang.org/x/crypto v0.0.0-20200406173513-056763e48d71
+	golang.org/x/crypto v0.0.0-20200414173820-0848c9571904
 )
