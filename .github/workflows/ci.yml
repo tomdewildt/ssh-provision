@@ -20,6 +20,8 @@ jobs:
         run: go mod download
       - name: Run check
         run: go vet ./...
+      - name: Run build
+        run: go build cmd/ssh-provision/ssh-provision.go
       - name: Run test
         run: go test -race -coverprofile=coverage.out -covermode=atomic ./...
       - name: Upload coverage
