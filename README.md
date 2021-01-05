@@ -14,7 +14,7 @@ A simple tool to create ssh keys and distribute them to CentOS servers.
 
 Prerequisites:
 * vagrant version ```2.2.7``` or later
-* go version ```1.13``` or later
+* go version ```1.15``` or later
 
 ### Development
 
