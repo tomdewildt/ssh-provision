@@ -6,7 +6,7 @@ require (
 	github.com/go-playground/validator/v10 v10.13.0
 	github.com/sirupsen/logrus v1.9.2
 	github.com/spf13/cobra v1.7.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	golang.org/x/crypto v0.9.0
 )
 
