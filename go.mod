@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-playground/validator/v10 v10.13.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.2
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.2
 	golang.org/x/crypto v0.9.0
