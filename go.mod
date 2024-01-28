@@ -3,7 +3,7 @@ module github.com/tomdewildt/ssh-provision
 go 1.19
 
 require (
-	github.com/go-playground/validator/v10 v10.14.0
+	github.com/go-playground/validator/v10 v10.17.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
 	github.com/stretchr/testify v1.8.4
